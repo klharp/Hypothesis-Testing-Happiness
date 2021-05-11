@@ -1,3 +1,7 @@
+NOTE: The original shared repository can be found here: https://github.com/chrispope12391/Project-1-
+
+---
+
 # Does Social Progress Relate To Happiness?
 
 ## Project 1: Nick Buller, Kerry Harp, Sofanit Mengesha, Christopher Pope
